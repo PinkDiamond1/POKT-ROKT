@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Rob Rohm
+N;CHARSET=UTF-8:Rob Rohm;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;685 Third Avenue\, 27th Floor;New York;NY;10017;USA
+EMAIL:newsletters@ubnt.com
+ORG;CHARSET=UTF-8:Ubiquiti Networks
+URL:http://ubnt.com
+END:VCARD
